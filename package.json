@@ -1,0 +1,21 @@
+{
+  "name": "lab-03-backend-development",
+  "version": "1.0.0",
+  "description": "Advanced Book Management REST API with Search, Filtering, Sorting, Pagination, Validation and Debugging",
+  "scripts": {
+    "start": "npm --prefix backend start",
+    "dev": "npm --prefix backend run dev",
+    "test": "npm --prefix backend test",
+    "db:init": "npm --prefix backend run db:init"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "postgresql",
+    "rest-api",
+    "backend"
+  ],
+  "author": "Backend Engineering Team",
+  "license": "MIT"
+}
+
